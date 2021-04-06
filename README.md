@@ -8,6 +8,16 @@ MERN Stack application for maintaining documents and adding comments within them
 * React JS
 * Node JS
 
+## Preview
+1. Registration Page
+![](readme-content/register.png)
+2. Login Page
+![](readme-content/login.png)
+3. Documents List Page
+![](readme-content/docs-list.png)
+4. Add Comments
+![](readme-content/add-commnets.png)
+
 ## Setup
 
 1. Install this repository on your machine by downloading the zip file or running this command:
