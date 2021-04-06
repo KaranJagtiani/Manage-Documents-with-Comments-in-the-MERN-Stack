@@ -21,6 +21,7 @@ MERN Stack application for maintaining documents and adding comments within them
 ## Preview
 ### 1. Registration Page
 ![](readme-content/register.png)
+![](readme-content/register-video.gif)
 ### 2. Login Page
 ![](readme-content/login.png)
 ### 3. Documents List Page
