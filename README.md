@@ -13,10 +13,10 @@ MERN Stack application for maintaining documents and adding comments within them
 * Made using the React Material UI.
 * JWT Authentication.
 * The User can:
-- Add Multiple Documents.
-- Delete Documents.
-- Add Multiple Comments in each Document.
-- Delete Comments.
+  - Add Multiple Documents.
+  - Delete Documents.
+  - Add Multiple Comments in each Document.
+  - Delete Comments.
 
 ## Preview
 ### 1. Registration Page
