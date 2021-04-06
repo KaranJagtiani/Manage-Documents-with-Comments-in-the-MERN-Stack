@@ -1,0 +1,31 @@
+.document-title {
+  color: #1d1d1d;
+  text-align: center;
+}
+
+.document-content {
+  font-size: 20px;
+  text-align: justify;
+}
+
+.highlighted {
+  background: yellow;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.dont-display {
+  display: none;
+}
+
+.save-button {
+  padding: 20px;
+  width: 280px;
+}
+
+.delete-button {
+  color: #ffffff;
+  background: transparent;
+}

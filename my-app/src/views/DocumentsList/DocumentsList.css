@@ -1,0 +1,48 @@
+.custom-class {
+  color: red;
+}
+
+.max-width {
+  width: 100% !important;
+}
+
+.document-block {
+  margin-top: 15px;
+  text-align: center;
+  width: 100%;
+  color: #f3f3f3;
+  background: #292929;
+  border-radius: 5px;
+  padding: 15px;
+  font-size: 18px;
+}
+
+.document-block:hover {
+  cursor: pointer;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.custom-row {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.card-name {
+  margin: 0;
+}
+
+.card-name:hover {
+  cursor: pointer;
+}
+
+.complete-center {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
