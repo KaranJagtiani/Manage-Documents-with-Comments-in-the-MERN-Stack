@@ -19,14 +19,17 @@ MERN Stack application for maintaining documents and adding comments within them
   - Delete Comments.
 
 ## Preview
-### 1. Registration Page
+### 1. Adding Documents & Comments
+![](readme-content/add-comments-video.gif)
+### 2. Registration Page
 ![](readme-content/register.png)
 ![](readme-content/register-video.gif)
-### 2. Login Page
+### 3. Login Page
 ![](readme-content/login.png)
-### 3. Documents List Page
+![](readme-content/login-video.gif)
+### 4. Documents List Page
 ![](readme-content/docs-list.png)
-### 4. Add Comments
+### 5. Add Comments
 ![](readme-content/add-commnets.png)
 
 ## Setup
