@@ -8,6 +8,16 @@ MERN Stack application for maintaining documents and adding comments within them
 * React JS
 * Node JS
 
+## Features
+* Persistent application made in the MERN stack.
+* Made using the React Material UI.
+* JWT Authentication.
+* The User can:
+- Add Multiple Documents.
+- Delete Documents.
+- Add Multiple Comments in each Document.
+- Delete Comments.
+
 ## Preview
 ### 1. Registration Page
 ![](readme-content/register.png)
