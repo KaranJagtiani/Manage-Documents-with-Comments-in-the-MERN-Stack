@@ -48,7 +48,7 @@ mongod
 ```
 
 ## Usage  
-1. Run the Node server, by running this command in the node-app folder:
+1. Run the Node server, by running this command in the root directory:
 ```
 node app.js
 or
