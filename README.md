@@ -36,7 +36,7 @@ MERN Stack application for maintaining documents and adding comments within them
 
 1. Install this repository on your machine by downloading the zip file or running this command:
 ```
-git clone https://github.com/KaranJagtiani/IoT-Application-using-MEAN-Stack.git
+https://github.com/KaranJagtiani/Maintain-Documents-with-Comments-in-the-MERN-Stack.git
 ```
 2. Install NPM packages for both, NodeJS & the React Application:
 ```
